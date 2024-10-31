@@ -1,0 +1,23 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+  <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="105.3965" y1="106.6215" x2="21.0151" y2="65.2431">
+    <stop offset="0.3131" style="stop-color:#F96791"/>
+    <stop offset="1" style="stop-color:#BD1226"/>
+  </linearGradient>
+  <path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" d="M43.464,36.891C16.85,52.353,5.805,74.42,12.652,93.509
+	c6.294,17.806,33.681,27.08,108.997-2.134c-12.694,2.558-53.007,2.879-79.289-3.837C16.075,80.819,2.05,66.533,43.464,36.891
+	L43.464,36.891z"/>
+  <linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="63.3286" y1="30.2192" x2="89.7155" y2="107.1065">
+    <stop offset="0.3131" style="stop-color:#F96791"/>
+    <stop offset="1" style="stop-color:#BD1226"/>
+  </linearGradient>
+  <path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_2_)" d="M61.873,112.882c21.647,13.011,41.305,12.263,49.807-3.306
+	c8.945-16.421-1.546-50.964-73.881-108.327C48.625,13.19,77.003,56.053,89.705,86.119
+	C101.189,113.416,100.525,131.757,61.873,112.882L61.873,112.882z"/>
+  <linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="34.7706" y1="111.6028" x2="83.9659" y2="30.154">
+    <stop offset="0.3131" style="stop-color:#F96791"/>
+    <stop offset="1" style="stop-color:#BD1226"/>
+  </linearGradient>
+  <path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_3_)" d="M104.782,49.445c4.528-30.817-7.506-46.276-29.598-38.919
+	c-21.2,7.04-44.283,40.943-48.592,110.782c2.543-9.812,18.665-46.062,37.329-73.783C85.016,16.177,106.992-1.202,104.782,49.445
+	L104.782,49.445z"/>
+</svg>
